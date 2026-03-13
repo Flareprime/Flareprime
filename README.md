@@ -1,9 +1,9 @@
 # Jordan Bassett
 ## BAS Software Development Student – Columbia Basin College
 ## Technical Skills
--Languages: Java, C++, JavaScript, SQL, HTML, CSS  
--Tools: Git, GitHub, GitLab  
--Concepts: Object-Oriented Programming, Agile Scrum, Relational Databases, Secure Coding Practices
+**Languages:** Java, C++, JavaScript, SQL, HTML, CSS  
+**Tools:** Git, GitHub, GitLab  
+**Concepts:** Object-Oriented Programming, Agile Scrum, Relational Databases, Secure Coding Practices
 ---
 ## Agile & Scrum Experience
 Worked on a team-based *Social Media Message Board* project using the Scrum framework. Responsibilities included:
